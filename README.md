@@ -38,7 +38,7 @@
     </a>  
 </div>
 
-<div style="display: flex; flex; align-items: center;" align="center">
+<!-- <div style="display: flex; flex; align-items: center;" align="center">
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;" align="start">
         <p style="font-size: 1.2rem">Don't forget to visit my second github account where upload small testing projects using different languages.</p>
     </div>
@@ -50,5 +50,5 @@
     <div style="flex: 1;" align="center">
         <img src="./pointing.gif" alt=github/>
     </div>
-</div>
+</div> -->
 
