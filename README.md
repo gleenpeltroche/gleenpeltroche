@@ -40,7 +40,7 @@
 
 <div style="display: flex; flex; align-items: center;" align="center">
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;" align="start">
-        <p style="font-size: 1.5rem">Don't forget to visit my second github account where upload small testing projects using different languages.</p>
+        <p style="font-size: 1.2rem">Don't forget to visit my second github account where upload small testing projects using different languages.</p>
     </div>
     <div style="flex: 1;" align="center">
         <a href="https://github.com/gleenpeltroche" target="_blank">
