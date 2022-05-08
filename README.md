@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-## A Student of Mechanical Electrical Engineering and a passionate Web and Software Developer 🚀 having an experience of building IoT services, Neural Networks applications, Making Websites and creating Mobile Apps.⭐
+## A Bachelor of Mechanical Electrical Engineering and a passionate Web and Software Developer 🚀 having an experience of building IoT services, Neural Networks applications, Making Websites and creating Mobile Apps.⭐
 
 <br/>
 
